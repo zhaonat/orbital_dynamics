@@ -7,3 +7,4 @@ main programs in orbital dynamics investigates the runge-kutta algorithm to simu
 # Examples
 you can find some simpler systems such as the SHO or a 1D projectile simulated with the Runge-Kutta algorithm
 
+![alt text](https://github.com/zhaonat/orbital_dynamics/tree/master/example_figs/E=0.083_ phase_diagram.png)
