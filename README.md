@@ -13,7 +13,7 @@ main programs in orbital dynamics investigates the runge-kutta algorithm to simu
 
 # Examples
 you can find some simpler systems such as the SHO or a 1D projectile simulated with the Runge-Kutta algorithm.
-The SHO is an example of a non-chaotic system with a potential V(r) = r^2
+The SHO is an example of a non-chaotic system with a potential V(r) = r^2 <br>
 The 1D projectile is simulated with a gravitational potential 1/x
 
 # Example Phase Diagram
