@@ -12,7 +12,9 @@ folder: orbital_dynamics_Henon_Heiles
 main programs in orbital dynamics investigates the runge-kutta algorithm to simulate nonlinear Newtonian dynamics of a particle with the Henon-Heiles Hamiltonian. You should be able to execute any of these files when you download the repo
 
 # Examples
-you can find some simpler systems such as the SHO or a 1D projectile simulated with the Runge-Kutta algorithm
+you can find some simpler systems such as the SHO or a 1D projectile simulated with the Runge-Kutta algorithm.
+The SHO is an example of a non-chaotic system with a potential V(r) = r^2
+The 1D projectile is simulated with a gravitational potential 1/x
 
 # Example Phase Diagram
 The Henon-Heiles Hamiltonian is one of the first Hamiltonians studied which exhibits chaos. In short, the notion of chaos in classical dynamics describes the fact that a small perturbation of the initial conditions can lead to a large change in the trajectory of the particle after a sufficiently long period of time.
